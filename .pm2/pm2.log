@@ -1,0 +1,81 @@
+2023-09-22T18:06:00: PM2 log: ===============================================================================
+2023-09-22T18:06:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-22T18:06:00: PM2 log: Time                 : Fri Sep 22 2023 18:06:00 GMT-0300 (Hora padrão de Brasília)
+2023-09-22T18:06:00: PM2 log: PM2 version          : 5.3.0
+2023-09-22T18:06:00: PM2 log: Node.js version      : 16.20.2
+2023-09-22T18:06:00: PM2 log: Current arch         : x64
+2023-09-22T18:06:00: PM2 log: PM2 home             : /home/deploy/villa/.pm2
+2023-09-22T18:06:00: PM2 log: PM2 PID file         : /home/deploy/villa/.pm2/pm2.pid
+2023-09-22T18:06:00: PM2 log: RPC socket file      : /home/deploy/villa/.pm2/rpc.sock
+2023-09-22T18:06:00: PM2 log: BUS socket file      : /home/deploy/villa/.pm2/pub.sock
+2023-09-22T18:06:00: PM2 log: Application log path : /home/deploy/villa/.pm2/logs
+2023-09-22T18:06:00: PM2 log: Worker Interval      : 30000
+2023-09-22T18:06:00: PM2 log: Process dump file    : /home/deploy/villa/.pm2/dump.pm2
+2023-09-22T18:06:00: PM2 log: Concurrent actions   : 2
+2023-09-22T18:06:00: PM2 log: SIGTERM timeout      : 1600
+2023-09-22T18:06:00: PM2 log: ===============================================================================
+2023-09-22T22:32:24: PM2 log: PM2 successfully stopped
+2023-09-22T22:33:31: PM2 log: ===============================================================================
+2023-09-22T22:33:31: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-22T22:33:31: PM2 log: Time                 : Fri Sep 22 2023 22:33:31 GMT-0300 (Hora padrão de Brasília)
+2023-09-22T22:33:31: PM2 log: PM2 version          : 5.3.0
+2023-09-22T22:33:31: PM2 log: Node.js version      : 16.20.2
+2023-09-22T22:33:31: PM2 log: Current arch         : x64
+2023-09-22T22:33:31: PM2 log: PM2 home             : /home/deploy/villa/.pm2
+2023-09-22T22:33:31: PM2 log: PM2 PID file         : /home/deploy/villa/.pm2/pm2.pid
+2023-09-22T22:33:31: PM2 log: RPC socket file      : /home/deploy/villa/.pm2/rpc.sock
+2023-09-22T22:33:31: PM2 log: BUS socket file      : /home/deploy/villa/.pm2/pub.sock
+2023-09-22T22:33:31: PM2 log: Application log path : /home/deploy/villa/.pm2/logs
+2023-09-22T22:33:31: PM2 log: Worker Interval      : 30000
+2023-09-22T22:33:31: PM2 log: Process dump file    : /home/deploy/villa/.pm2/dump.pm2
+2023-09-22T22:33:31: PM2 log: Concurrent actions   : 2
+2023-09-22T22:33:31: PM2 log: SIGTERM timeout      : 1600
+2023-09-22T22:33:31: PM2 log: ===============================================================================
+2023-09-23T00:01:39: PM2 log: ===============================================================================
+2023-09-23T00:01:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-23T00:01:39: PM2 log: Time                 : Sat Sep 23 2023 00:01:39 GMT-0300 (Hora padrão de Brasília)
+2023-09-23T00:01:39: PM2 log: PM2 version          : 5.3.0
+2023-09-23T00:01:39: PM2 log: Node.js version      : 16.20.2
+2023-09-23T00:01:39: PM2 log: Current arch         : x64
+2023-09-23T00:01:39: PM2 log: PM2 home             : /home/deploy/villa/.pm2
+2023-09-23T00:01:39: PM2 log: PM2 PID file         : /home/deploy/villa/.pm2/pm2.pid
+2023-09-23T00:01:39: PM2 log: RPC socket file      : /home/deploy/villa/.pm2/rpc.sock
+2023-09-23T00:01:39: PM2 log: BUS socket file      : /home/deploy/villa/.pm2/pub.sock
+2023-09-23T00:01:39: PM2 log: Application log path : /home/deploy/villa/.pm2/logs
+2023-09-23T00:01:39: PM2 log: Worker Interval      : 30000
+2023-09-23T00:01:39: PM2 log: Process dump file    : /home/deploy/villa/.pm2/dump.pm2
+2023-09-23T00:01:39: PM2 log: Concurrent actions   : 2
+2023-09-23T00:01:39: PM2 log: SIGTERM timeout      : 1600
+2023-09-23T00:01:39: PM2 log: ===============================================================================
+2023-09-23T19:52:00: PM2 log: ===============================================================================
+2023-09-23T19:52:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-23T19:52:00: PM2 log: Time                 : Sat Sep 23 2023 19:52:00 GMT-0300 (Hora padrão de Brasília)
+2023-09-23T19:52:00: PM2 log: PM2 version          : 5.3.0
+2023-09-23T19:52:00: PM2 log: Node.js version      : 16.20.2
+2023-09-23T19:52:00: PM2 log: Current arch         : x64
+2023-09-23T19:52:00: PM2 log: PM2 home             : /home/deploy/villa/.pm2
+2023-09-23T19:52:00: PM2 log: PM2 PID file         : /home/deploy/villa/.pm2/pm2.pid
+2023-09-23T19:52:00: PM2 log: RPC socket file      : /home/deploy/villa/.pm2/rpc.sock
+2023-09-23T19:52:00: PM2 log: BUS socket file      : /home/deploy/villa/.pm2/pub.sock
+2023-09-23T19:52:00: PM2 log: Application log path : /home/deploy/villa/.pm2/logs
+2023-09-23T19:52:00: PM2 log: Worker Interval      : 30000
+2023-09-23T19:52:00: PM2 log: Process dump file    : /home/deploy/villa/.pm2/dump.pm2
+2023-09-23T19:52:00: PM2 log: Concurrent actions   : 2
+2023-09-23T19:52:00: PM2 log: SIGTERM timeout      : 1600
+2023-09-23T19:52:00: PM2 log: ===============================================================================
+2023-09-29T11:00:31: PM2 log: ===============================================================================
+2023-09-29T11:00:31: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-29T11:00:31: PM2 log: Time                 : Fri Sep 29 2023 11:00:31 GMT-0300 (Hora padrão de Brasília)
+2023-09-29T11:00:31: PM2 log: PM2 version          : 5.3.0
+2023-09-29T11:00:31: PM2 log: Node.js version      : 16.20.2
+2023-09-29T11:00:31: PM2 log: Current arch         : x64
+2023-09-29T11:00:31: PM2 log: PM2 home             : /home/deploy/villa/.pm2
+2023-09-29T11:00:31: PM2 log: PM2 PID file         : /home/deploy/villa/.pm2/pm2.pid
+2023-09-29T11:00:31: PM2 log: RPC socket file      : /home/deploy/villa/.pm2/rpc.sock
+2023-09-29T11:00:31: PM2 log: BUS socket file      : /home/deploy/villa/.pm2/pub.sock
+2023-09-29T11:00:31: PM2 log: Application log path : /home/deploy/villa/.pm2/logs
+2023-09-29T11:00:31: PM2 log: Worker Interval      : 30000
+2023-09-29T11:00:31: PM2 log: Process dump file    : /home/deploy/villa/.pm2/dump.pm2
+2023-09-29T11:00:31: PM2 log: Concurrent actions   : 2
+2023-09-29T11:00:31: PM2 log: SIGTERM timeout      : 1600
+2023-09-29T11:00:31: PM2 log: ===============================================================================
